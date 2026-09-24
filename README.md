@@ -50,7 +50,11 @@ HTML
 
 HTML
 <h1>Profil Mahasiswa</h1>
+
 <img src="WhatsApp Image 2026-09-24 at 15.22.27.jpeg" width="200" alt="Foto profil mahasiswa">
+
+<img width="1439" height="874" alt="Screenshot 2026-09-24 152824" src="https://github.com/user-attachments/assets/d1bc7f6a-16d6-437f-89d8-61126cd568e9" />
+
 <h1>: Menampilkan judul utama halaman dengan ukuran teks terbesar, yaitu "Profil Mahasiswa".
 
 <img>: Menampilkan gambar/foto profil.
